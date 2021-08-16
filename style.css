@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+ 
+ input{
+    border: 2px solid rgb(255, 238, 0);
+border-bottom-color: green;
+border-radius: 5px;
+border-right-color: greenyellow;
+border-left-color: greenyellow;
+
+ }
+ button{
+    border: 2px solid green;
+border-bottom-color: gold;
+border-radius: 5px;
+border-right-color: greenyellow;
+border-left-color: greenyellow;
+ }
